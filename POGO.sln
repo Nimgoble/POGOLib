@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{02E1D218-DD9D-4BA2-91F9-0F1D7A59B3CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POGOLib", "POGOLib\POGOLib.csproj", "{3BA89DFB-A162-420A-9DED-DAA211E52AD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POGOLib", "POGOLib\POGOLib.csproj", "{C723996D-696D-4AFB-BC30-88DB92B7E06B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{02E1D218-DD9D-4BA2-91F9-0F1D7A59B3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02E1D218-DD9D-4BA2-91F9-0F1D7A59B3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02E1D218-DD9D-4BA2-91F9-0F1D7A59B3CF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3BA89DFB-A162-420A-9DED-DAA211E52AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3BA89DFB-A162-420A-9DED-DAA211E52AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3BA89DFB-A162-420A-9DED-DAA211E52AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3BA89DFB-A162-420A-9DED-DAA211E52AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C723996D-696D-4AFB-BC30-88DB92B7E06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C723996D-696D-4AFB-BC30-88DB92B7E06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C723996D-696D-4AFB-BC30-88DB92B7E06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C723996D-696D-4AFB-BC30-88DB92B7E06B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
